@@ -8,7 +8,7 @@
 
 **Нормы действуют на следующих площадках PiterJS**:
 
-*   **Оффлайн**: PiterJS meetup, PiterJS conf, PiterJS tour, PiterJS learn, PiterJS OSD.
+*   **Оффлайн**: PiterJS meetup, PiterJS conf, PiterJS tour.
 *   **Онлайн**: Флудилка PiterJS, группы и каналы в социальных сетях PiterJS, а также [группа на гитхабе](https://github.com/piterjs/), [медиум](http://medium.com/piterjs) и [патреон](https://www.patreon.com/piterjs). Список будет дополняться по мере появления новых типов площадок.
 
 
