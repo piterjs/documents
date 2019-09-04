@@ -44,17 +44,17 @@
 <table>
   <tr>
    <td>
-[photo]<br>
+<img src="fogrew.jpg" alt="Андрей Гурылев"><br>
 <strong>Андрей Гурылев</strong><br>
 <a href="https://t.me/fogrew">t.me/fogrew</a><br>
 <a href="mailto:fogrew@piterjs.dev">fogrew@piterjs.dev</a>
    </td>
-   <td>[photo]<br>
+   <td><img src="coppolla.jpg" alt="Ксения Копполла"><br>
 <strong>Ксения Копполла</strong><br>
 <a href="https://t.me/coppolla">t.me/coppolla</a><br>
 <a href="mailto:coppolla@piterjs.dev">coppolla@piterjs.dev</a>
    </td>
-   <td>[photo]<br>
+   <td><img src="volkova_annie.jpg" alt="Анна Волкова"><br>
 <strong>Анна Волкова</strong><br>
 <a href="https://t.me/volkova_annie">t.me/volkova_annie</a><br>
 <a href="mailto:volkova_annie@piterjs.dev">volkova_annie@piterjs.dev</a>
