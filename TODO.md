@@ -7,7 +7,7 @@
   - [ ] нарезать [видео с PiterJS 47](https://www.youtube.com/watch?v=pev6g_oysUs)
   - [ ] нарезать [видео с PiterJS 48](https://www.youtube.com/watch?v=ANbnQhxos-A)
 
-## (добавить на сайт информацию про)[https://github.com/piterjs/piterjs#внесение-данных]
+## [добавить на сайт информацию про](https://github.com/piterjs/piterjs#внесение-данных)
   - [ ] PiterJS 45
   - [ ] PiterJS 46
   - [ ] PiterJS 47
