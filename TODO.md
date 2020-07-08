@@ -1,6 +1,8 @@
 # Чем можно помочь митапу PiterJS
-Сделать что-то из https://github.com/piterjs/meetup/issues
-или https://github.com/piterjs/documents/issues
+Сделать что-то из: 
+  - https://github.com/piterjs/meetup/issues
+  - https://github.com/piterjs/documents/issues
+  - https://github.com/piterjs/piterjs/issues
 
 ## нарезать видео с докладов
   - [ ] нарезать [видео с PiterJS 44](https://www.youtube.com/watch?v=IEZmQCJFOog)
