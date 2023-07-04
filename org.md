@@ -125,3 +125,22 @@
 Зазвать народ в организаторы
 
 Расположить работы на календаре месяца для наглядности
+
+# Полезные ссылки
+
+## Для всех
+- [piterjs.org - основной сайт](https://piterjs.org/)
+- [YouTube канал](https://www.youtube.com/piterjs)
+- [Medium](https://medium.com/piterjs)
+- [Форма заявки на доклад](https://docs.google.com/forms/d/e/1FAIpQLSe7lb5LFc0LaaJu9POvlIAw8Te0g46xSmYZr7FwuCWg2saYmA/viewform)
+
+## Для оргов
+- [Airtable - база данных](https://airtable.com/tblFBAPJ2oiQxBytL/viwywbeoYSSZ2A67G)
+- [kalinka - generate google calendar links](http://kalinka.tardate.com/)
+- [Google Диск](https://drive.google.com/drive/folders/1jLhw46I6oDuoUfbtD5Y2n_rw_7U-YaKd)
+- [Ззаявки на доклады](https://docs.google.com/spreadsheets/d/1AiVwEr4DUuGcCdhraAcszssCBldGOxljxwbm93C8qq4/edit#gid=950307631)
+- [Video trimmer - нарезка стрима по тайм кодам](https://github.com/piterjs/video-trimmer)
+- [Рандомайзер](https://codepen.io/fogrew/pen/JproNo)
+- [Генератор анонса спикера](https://codepen.io/mike1pol/pen/XWWammV) (не работает)
+- [Дизайн PiterJS Conf](https://www.figma.com/file/HRig13pr5soIGpMsY83TYml8/PiterJSConf_site?type=design&node-id=0-1&mode=design&t=tzu9X1ho96ZMefom-0)
+- [Дизайн PiterJS](https://www.figma.com/file/NQ3XPvJjT9Raqk291cbSce/PiterJS-%2347)
