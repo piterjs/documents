@@ -141,6 +141,6 @@
 - [Ззаявки на доклады](https://docs.google.com/spreadsheets/d/1AiVwEr4DUuGcCdhraAcszssCBldGOxljxwbm93C8qq4/edit#gid=950307631)
 - [Video trimmer - нарезка стрима по тайм кодам](https://github.com/piterjs/video-trimmer)
 - [Рандомайзер](https://codepen.io/fogrew/pen/JproNo)
-- [Генератор анонса спикера](https://codepen.io/mike1pol/pen/XWWammV) (не работает)
+- [Генератор анонса спикера](https://piterjs.github.io/title-generator/)
 - [Дизайн PiterJS Conf](https://www.figma.com/file/HRig13pr5soIGpMsY83TYml8/PiterJSConf_site?type=design&node-id=0-1&mode=design&t=tzu9X1ho96ZMefom-0)
 - [Дизайн PiterJS](https://www.figma.com/file/NQ3XPvJjT9Raqk291cbSce/PiterJS-%2347)
