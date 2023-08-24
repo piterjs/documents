@@ -37,6 +37,7 @@
     - *.github.io
     - *.twitch.tv
     - *.google.com
+    - *.vdo.ninja
 
 ## Типичное рассписание
 
